@@ -1,7 +1,7 @@
 
 # Hi there, I'm Archie Nagdev! 👋
 
-I'm a 3rd year student with a passion for technology and problem-solving. Currently, I hold a certification as an AWS Cloud Practitioner and I'm constantly honing my skills while working on various projects. I have a solid understanding of Data Structures and Algorithms in C++, as well as proficiency in HTML, CSS, and JavaScript.
+I'm a final year student with a passion for technology and problem-solving. Currently, I hold a certification as an AWS Cloud Practitioner and I'm constantly honing my skills while working on various projects. I have a solid understanding of Data Structures and Algorithms in C++, as well as proficiency in HTML, CSS, and JavaScript, Node.js, React, MongoDB.
 
 🔭 I’m currently working on: Strengthening my problem-solving skills.
 
